@@ -9,13 +9,13 @@ B2: Clone repo chứa code của chương trình bằng cú pháp:
 git clone https://github.com/XmushroomX/Chess-AI.git
 ```
 
-B4: Mở chương trình Visual Studio Code, vào thư mục chứa repo đã clone ở trên, và cài đặt thư viện pygame + chess qua cú pháp sau trong terminal:
+B3: Mở chương trình Visual Studio Code, vào thư mục chứa repo đã clone ở trên, và cài đặt thư viện pygame + chess qua cú pháp sau trong terminal:
 ```
 pip install pygame
 pip install chess
 ```
 
-B5: Chạy file ```main.py``` để bắt đầu chơi:
+B4: Chạy file ```main.py``` để bắt đầu chơi:
 
 ## Hướng dẫn chơi:
 
